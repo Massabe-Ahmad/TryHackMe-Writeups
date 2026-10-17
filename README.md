@@ -3,7 +3,7 @@
 Hands-on cyber security labs focused on **defensive security**: log analysis, threat detection and incident investigation.
 Each write-up explains my methodology, the commands I used, my findings and how they map to **MITRE ATT&CK**.
 
-**TryHackMe:** [Massabe-Ahmad](https://github.com/Massabe-Ahmad/) · **LinkedIn:** [Massabe Ahmad](www.linkedin.com/in/masab-ahmed)
+**TryHackMe:** [Massabe-Ahmad](https://github.com/Massabe-Ahmad/) · **LinkedIn:** [Massabe Ahmad](https://www.linkedin.com/in/masab-ahmed)
 
 ---
 
