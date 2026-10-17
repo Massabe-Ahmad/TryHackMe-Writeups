@@ -164,4 +164,4 @@ Sep 18+    Exfiltration       App server uploads data to the C2 IP over HTTP
 
 ---
 
-*Write-up by Massabe Ahmad · [TryHackMe Profile](https://tryhackme.com/p/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)*
+*Write-up by Massabe Ahmad · [TryHackMe Profile](https://github.com/Massabe-Ahmad) · [LinkedIn](https://www.linkedin.com/in/masab-ahmed)*
